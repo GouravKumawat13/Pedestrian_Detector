@@ -80,4 +80,5 @@ This project implements a **pedestrian detection system** using classical comput
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GouravKumawat13/pedestrian-detection-opencv.git
+   git clone https://github.com/GouravKumawat13/Pedestrian_Detector.git
+   
